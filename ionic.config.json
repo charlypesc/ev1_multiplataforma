@@ -1,0 +1,7 @@
+{
+  "name": "offretail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
